@@ -1,3 +1,11 @@
+# It is all about cats
+
+This project was implemented as part of technical test. The page is using [TheCatApi](https://thecatapi.com/) to host, like and vote on cat images.
+
+## Demo
+
+Open [It is all about cats](https://it-is-all-about-cats.web.app/) to view the demo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
